@@ -59,3 +59,8 @@ graphify-out/
 .graphify_uncached.txt
 
 .venv/
+
+# Local AI-agent scratch/cache
+.pi-lens/
+context.md
+updt.sh
